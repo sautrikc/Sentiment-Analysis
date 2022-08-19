@@ -6,4 +6,4 @@ The list of different accuracy is given below:<br>
 **Test Accuracy 59.54%**<br>
 **Sensitivity- 56.83%**<br>
 **Specificity- 86.53%**<br>
-The difference between the Train and Test data is quite more. But these kind of observations are accepted as the vocabulary of english is very large. So the text's in Train and Test data differs a lot.
+The difference between the Train and Test data is quite significant. But these kind of observations are accepted as the vocabulary of english is very large. So the texts in Train and Test data differs a lot.
